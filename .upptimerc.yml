@@ -27,7 +27,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
-i18n:
-  footer:
+#i18n:
+#  footer:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
