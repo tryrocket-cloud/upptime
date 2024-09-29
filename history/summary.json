@@ -4,19 +4,19 @@
     "url": "https://tryrocket.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/tryrocket.cloud.ico",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 158,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "status": "up",
+    "uptime": "89.98%",
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "89.98%",
+    "uptimeMonth": "89.98%",
+    "uptimeYear": "89.98%",
+    "time": 155,
+    "timeDay": 155,
+    "timeWeek": 155,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 135
     }
   },
   {
